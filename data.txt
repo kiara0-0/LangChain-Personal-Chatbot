@@ -20,44 +20,13 @@ Security
 • Computer Architecture
 • Data Science for Business
 Experience
-WELLS FARGO, Bengaluru — Intern Analyst Feb 2023 – Aug 2023
-EPPROVE- Approving Offline Transactions
-• Implemented Java and SpringBoot concepts to develop the algorithm for token generation and user authorization
-• Implemented SQL queries for efficient token management using object relational mapping
-• Applied TDD, wrote test cases and improved test coverage for multiple classes using Junit and Mockito to above 75%
-• Collaborated to debug and optimize code, ensuring compliance with standards for Quality Gate report clearance.
-• Contributed in the various phases of the Software Development Lifecycle from development and documentation to testing
-WELLS FARGO, Hyderabad — Software Engineer Intern May 2022 – Jul 2022
-AI HOME LENDING ASSISTANT
-• Developed an AI-based voice-enabled chatbot for enhancing customer support, with a focus on Home Mortgage loans
-• Worked on improving responses to various queries using NLP by training the model with 200+ conversations
-• Used technologies like ReactJS to make the software dynamic and user-friendly
-• Achieved 90% accuracy for intent classification using DIET under Rasa 1.8, trained over BERT embeddings
-• Conducted comprehensive testing of components for rendering and snapshots utilizing Jest
-Projects
-Unemployment Rate Prediction Feb 2024 – Present
-• Developed a time series forecasting model to predict monthly US unemployment trends; Achieved MAPE of < 5%
-• Collated monthly macroeconomic indicators, integrated univariate data from FRED, and conducted feature engineering
-• Compared ARIMA, SARIMA and other linear regressive models over accuracy and stability of predictions over time
-• Implemented classification models including NeuralNets to predict unemployment trend changes; achieved 0.7 accuracy
-Fraudulent Transaction Detection Software Nov 2023
-• Used Django for the backend to develop the software and MySQL Workbench to set up the database
-• Developed a Machine Learning model to detect fraudulent transactions
-• Applied the concepts of Database Management and used Object Relational Mapping
-Dual Path CNN Architecture for Breast Cancer Detection on Mammography Images Jan 2023 – May 2023
-• Created a Dual Path CAD System using Tensorflow to classify mammogram images as Benign or Malignant
-• Developed an architecture comprising classification and segmentation paths alongside a feature fusion module to enhance
-mammogram image predictions while simultaneously generating ROI masks depicting the affected tissue
-• Performed image pre-processing and augmentation on the INBreast and CBIS-DDSM datasets
-• Trained and evaluated CNN models like Mobilenet, RESNET-50 and U-Net over precision and inference times
+
 Technical Skills
 Programming Languages: C++ with STL, Python, Java, C, SQL
 Web Development Frameworks: React.js, Router, HTML, CSS, SpringBoot, Junit, Mockito
 Data Science Libraries: Pandas, Numpy, Scikit Learn, Keras, Tensorflow, MatPlotLib, Seaborn, PlotLy
 Cloud Computing Technologies and Networking : Microsoft Azure, AWS, Firebase, TCP/IP
 Other Systems and Tools: Linux, Unix, Windows, Git, Latex, Docker
-
-
 
 More about Krina: 
 I love cats. I love making puns here and there. I am currently a student at New York University. I have a passion for data science,
